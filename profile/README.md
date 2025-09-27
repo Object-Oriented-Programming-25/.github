@@ -62,26 +62,22 @@ Jika mengalami kesulitan, silakan bertanya ke asisten pratikumnya masing-masing
 - Pahrul Irfan S.Kom., M.Kom.
 
 **Asisten Praktikum:**
-- Rizky Insania Ramadhani
-- Aditya Rahmatdiyansyah
-- Dhinda Tsamara Shalsabilla
-- Nurul Qalbi Zahrani
-- Lalu Cholidimas Raniawan
-- Michael Effendy
-- Baiq Annisa Tsalist Agna
-- Muhammad Eysar Assazily
-- Nabila Noor Azizah
-- I Nengah Dwi Putra Witarsana
-- Yusril Ib4da Ramdhani
-- Rafli Rizani
-- Muhammad Kholilulloh
-- Refa Fadil Fasa
-- Excel Caesariano
-- Gevano Kevin Ravensy
-- Hendra Ahmad Yani
-- Baiq Luthfida Khairunnisa
-- Ida Bagus Brahmanta Jayana
-- Muhammad Rizki Assamsuli
+| Girls | Boys |
+|---|---|
+| Rizky Insania Ramadhani | Aditya Rahmatdiyansyah |
+| Dhinda Tsamara Shalsabilla | Lalu Cholidimas Raniawan |
+| Nurul Qalbi Zahrani | Michael Effendy |
+| Baiq Annisa Tsalist Agna | Muhammad Eysar Assazily |
+| Nabila Noor Azizah | I Nengah Dwi Putra Witarsana |
+| Baiq Luthfida Khairunnisa | Yusril Ibtida Ramdhani |
+|  | Rafli Rizani |
+|  | Muhammad Kholilulloh |
+|  | Excel Caesariano |
+|  | Refa Fadil Fasa |
+|  | Gevano Kevin Ravensy |
+|  | Hendra Ahmad Yani |
+|  | Muhammad Rizki Assamsuli |
+|  | Ida Bagus Brahmanta Jayana |
 
 ---
 
